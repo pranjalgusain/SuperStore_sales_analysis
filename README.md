@@ -25,12 +25,14 @@ The **Super Store Store Sales Analysis Dashboard** is designed to:
 - **Standard Class** dominates in sales by ship mode.
 - The **forecast** shows peak sales in late 2020.
 
-## 📈 Strategic Recommendations
--**Product Focus**: Explore opportunities in the Furniture and Technology categories as they show strong sales potential, especially in the West and Central regions.
--**Payment Mode Optimization**: Leverage the popularity of COD and Online payment mode to streamline payment processes.
--**Geographical Targeting**: Improve shipping options and efficiency in regions with lower sales like the South to boost overall customer satisfaction and sales growth.
--**Customer Engagement**: Focus on optimizing the Consumer segment since it drives almost half of the sales, by offering promotions and loyalty programs.
 
+## 📈 Strategic Recommendations
+- **Product Focus**: Explore opportunities in the Furniture and Technology categories as they show strong sales potential, especially in the West and Central regions.
+- **Payment Mode Optimization**: Leverage the popularity of COD and Online payment mode to streamline payment processes.
+- **Geographical Targeting**: Improve shipping options and efficiency in regions with lower sales like the South to boost overall customer satisfaction and sales growth.
+- **Customer Engagement**: Focus on optimizing the Consumer segment since it drives almost half of the sales, by offering promotions and loyalty programs.
+
+ 
 ## 🛠️ Tools Used
 - **Power BI**: Data visualization and dashboard creation.
 - **Power Query**: Data import and transformation.
