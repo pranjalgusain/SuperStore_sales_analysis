@@ -3,12 +3,17 @@
 This repository contains the Power BI Dashboard for Super Store Sales Analysis. The dashboard provides comprehensive insights into sales performance, key metrics, and customer behavior, helping stakeholders make informed business decisions.
 
 
-## 📊 Project Overview
+## 
 - The **Super Store Store Sales Analysis Dashboard** is designed to:
 
--Tracks key sales metrics across segments, regions, and time.
--Provide actionable insights to optimize sales operations.
--Enable stakeholders to monitor profitability and customer trends in real-time.
+-
+-
+-
+
+## 📊 Project Overview
+- Tracks key sales metrics across segments, regions, and time.
+- Provide actionable insights to optimize sales operations.
+- Enable stakeholders to monitor profitability and customer trends in real-time.
 
 
 ## 🎯 Project Objectives
