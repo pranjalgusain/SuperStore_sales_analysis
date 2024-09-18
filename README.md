@@ -10,11 +10,12 @@ This repository contains the Power BI Dashboard for Super Store Sales Analysis. 
 -Provide actionable insights to optimize sales operations.
 -Enable stakeholders to monitor profitability and customer trends in real-time.
 
+
 ## 🎯 Project Objectives
-**Monitor sales performance**: Monitor sales and profits across regions and segments.
-**Monthly trends**: Identify trends and seasonal patterns in sales and profits.
-**Operational Efficiency**: Analyze shipping methods' efficiency and their impact on sales.
-**15-day sales forecast**: Provide short-term sales forecasting for better planning. 
+- **Monitor sales performance**: Monitor sales and profits across regions and segments.
+- **Monthly trends**: Identify trends and seasonal patterns in sales and profits.
+- **Operational Efficiency**: Analyze shipping methods' efficiency and their impact on sales.
+- **15-day sales forecast**: Provide short-term sales forecasting for better planning.
 
 
 ## 💡 Key Insights
